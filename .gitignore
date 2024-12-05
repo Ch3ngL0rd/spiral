@@ -1,0 +1,6 @@
+# Binaries
+*.exe
+*.out
+
+# OS files
+*.DS_Store
